@@ -14,4 +14,3 @@
 ![image](https://github.com/xyyz12/mint_irc20_jiaocheng/assets/91812763/53b08c1f-3de5-4eba-9400-bdffcda59d59)
 
 
-
